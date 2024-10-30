@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.mpress_push_notification {
+	color: #BD1E4B;
+	font-size: 14px;
+	font-weight: 700;
+}
+.mpress_push_notification .fas {
+	padding: 0 10px;
+}
+.toplevel_page_mpress .wp-menu-image img {
+	height: 24px;
+}
